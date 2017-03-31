@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Abrakadabra</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="team_teaching">Team Teaching</string>
+    <string name="lead_programmer">Lead Programmer</string>
+    <string name="designer">Designer</string>
+
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="681850af82a7b75dff2c789c18ed75c85b53b77b">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_36d354011f3377eb8996215f6fd2491aeaf2860c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andri Ginting\.android\build-cache\8d58a47f1b4317b6b24eb5f8971ec92f8e512970\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_6be145dc843b703b1beed734e08a226b474df2f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e953bc3e15d5ce7b240a88b022337f35bdfbac68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andri Ginting\.android\build-cache\16dc859ce4b1b5c7ec8cab0dca9345b2645df198\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08581947765c1eb5e6a680e7fdec33ee867f037a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andri Ginting\.android\build-cache\b0085421b0b4cdcab0a6fcb617b2b6633498d0a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f079652fa4844f05f51fca8edc5eca2eb273e0ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andri Ginting\.android\build-cache\8d58a47f1b4317b6b24eb5f8971ec92f8e512970\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11f833197e96c553b59612854c221df05b340264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andri Ginting\.android\build-cache\72e5ba3dea6663063a2780f6bd1727ce1faba293\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8516c1b6c03a7b4f6559b6b9ab766ef38b882ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andri Ginting\.android\build-cache\19b7ee3b3b214b891bfe8787196cb50ee46ddc66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\Andrii\android studio\PKM\abakadabra-master2\Abrakadabra-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2b2f533ba7cb22fbb194248d766bcd9582944c1\classes.dex" />
+    </item>
+
+</items>
