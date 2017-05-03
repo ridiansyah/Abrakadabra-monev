@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.wahyuridiansyah.abrakadabra">
 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,16 +12,44 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".quizAlam"
+            android:parentActivityName=".activity.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity android:name=".quizActivity.praktikPerkenalan" />
+        <activity android:name=".quizActivity.praktikAlam" />
+        <activity android:name=".activity.highscore" />
+        <activity android:name=".quizActivity.KuisSalam" />
+        <activity android:name=".activity.HasilKuis" />
+        <activity android:name=".quizActivity.praktikKeluarga" />
+        <activity android:name=".quizActivity.kuisKebiasaan" />
+        <activity android:name=".materi.belajar_alam" />
+        <activity android:name=".materi.belajar_kebiasaan" />
+        <activity android:name=".materi.belajar_keluarga" />
+        <activity android:name=".materi.belajar_medhayoh" />
+        <activity android:name=".materi.belajar_nyampeknopesan" />
+        <activity android:name=".materi.belajar_perkenalan" />
+        <activity android:name=".materi.belajar_sekolah" />
+        <activity android:name=".materi.belajar_salam" />
+        <activity
+            android:name=".splash"
+            android:theme="@style/SplashScreenStyle">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".about_us"></activity>
+        <activity android:name=".quizActivity.kuisSekolah" />
+        <activity android:name=".quizActivity.kuisMedhayoh" />
+        <activity android:name=".quizActivity.kuisPesan" />
+        <activity android:name=".model.belajarSalam"></activity>
     </application>
 
 </manifest>

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#f4b63f</color>
+    <color name="colorPrimaryDark">#e0b46a</color>784f00
     <color name="colorAccent">#FF4081</color>
+    <color name="judul_games">#4c4c4c</color>
+    <color name="backgroundQuestion">#7de3d5</color>
+    <color name="buttonTanya">#f50057</color>
+    <color name="tulisanJudul">#502a0f</color>
+    <color name="hsColor">#c5e1a5</color>
+    <color name="hs_back">#f1f8e9</color>
+    <color name="bg_isi">#f1f8e0</color>
+    <color name="bg_pengenalan">#fff8e1</color>
+    <color name="chat_kenalan1">#009688</color>
+
 </resources>

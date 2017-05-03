@@ -4,7 +4,100 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="team_teaching">Team Teaching</string>
-    <string name="lead_programmer">Lead Programmer</string>
+    <string name="lead_programmer">Programmer</string>
     <string name="designer">Designer</string>
+
+    <string name="pengenalan1">ABRAKAADABRA adalah aplikasi yang dibuat untuk mempermudah anak-anak muda saat ini dalam mempelajari bahasa Jawa khususnya bahasa Jawa Krama. </string>
+    <string name="pengenalan2">Didalam aplikasi ini terdapat soal-soal yang dikemas dalam bentuk kuis yang digunakan sebagai latihan kepada para pengguna. </string>
+    <string name="pengenalan3">Dengan adanya aplikasi ini, diharapkan pengguna dapat belajar bahasa Jawa Krama dengan baik.</string>
+
+    <string name="materiperkenalan">Perkenalan kaliyan kanca dolan
+        \nAndri		: Oleh kenalan karo kowe ora?
+        \nAmanda	: Yo oleh bae.
+        \nAndri		: Jenengku Andri, jenengmu sapa? 
+        \nAmanda	: Jenengku Amanda. 
+        \nAndri		: Kowe saka endi?
+        \nAmanda	: Aku saka Purworejo, Jawa Tengah, suwalike kowe saka endi?
+        \nAndri		: Aku saka Medan nanging sekolah ing Jawa dadi bisa ngomong jawa.
+        \n\nPerkenalan Dengan Tetangga
+        \nAndri		: Sugeng ndalu. 
+        \nPak Darso	: Sugeng ndalu. 
+        \nAndri		: Nyuwun sewu, tepangaken kula Andri, ingkang manggen griya nomer kalih. 
+        \nPak Darso	: O nggih. Kula Wahyu, griya wetan piyambak.
+        \nAndri		: Kula saking Jogja. Panjenengan saking pundi?
+        \nPak Darso	: Nggih sami. Kula saking Godean. Mangga pinarak panggenan kula. 
+        \nAndri		: Nggih matur nuwun, sanes dinten. Mangga
+        \nPak Darso	: Nggih, mangga.
+        \n\nPerkenalan kaliyan atasan ing panggon mergawe
+        \nWahyu		: Sugeng enjing.
+        \nAlex		: Sugeng enjing. 
+        \nWahyu		: Nami kula Wahyu. Kula karyawan enggal wonten mriki. 
+        \nAlex		: Kula Alex. Mugi-mugi betah nggih.
+        \nWahyu		: Matur nuwun. 
+        \nAlex		: Sami-sami
+        \n\nPerkenalan Dengan Calon Mertua
+        \nAndri		: Sugeng siang. 
+        \nCamer		: Sugeng siang. 
+        \nAndri		: Nyuwun sewu dalem Andri. 
+        \nCamer		: Ooo iki to bocahe? 
+        \nAndri		: Inggih pak. Nyuwun ngapunten nembe sak menika saged sowan. 
+        \nCamer		: Yo ora popo. Dikepenakke yo. 
+        \nAndri		: Matur nuwun saestu, pak.</string>
+
+    <string name="materikeluarga">
+        - Nami Kula Anita Susanthi.
+        \n- Romo kula asmane Slamet Hartono. Romo makarya ing kantor kalurahan.
+        \n- Ibu kula asmane Fenita Arie. Ibu sadean sekul ing griya.
+        \n- Kula nggadah dulur tigo, ingkang kalih jaler bilih setunggal estri.
+        \n- Kula sakniki kelas kalih ing SMPN 1 Glatik.
+        \n- Griya kula wonten Jl. Besari no 10, Glatik
+    </string>
+
+    <string name="materialamhead">NANDUR TELA</string>
+    <string name="materialam">\tTela iku ana rong warna, yaiku tela rambat lan tela kayu. Nanging warna loro iku kagolong:uwi. Dene kang arep kacritakake yaiku prakara tela kayu.
+        \n\tTela kayu iku jenenge luwih saka siji, yaiku: tela pohung, uwi kayu, uwi tanah, kaspe, bolen, budin. Ing crita iki diarani salah sijine bae yaiku : pohung.
+        \n\tPohung bisa urip becik manawa ditandur ing papan kang hawane sedheng. Dene sing dianggo bibit yaiku wite utawa setek.
+        \n\tLemah kang arep ditanduri dipacul dhisik kanthi diwangun bung wujud galengan gedhe, ukurane jero kira-kira 30 centimeter, tekan. . .
+    </string>
+
+    <string name="materimedhayoh">Apa wae sing perlu digatekake yen maradhayoh/medhayoh?
+        \n\n1.	ANGON WAYAH, NGERTI WEKTU
+        \n\tMaradhayoh ora kena sakarepe dhewe, kudu ngerti wayah sing trep kanggo mertamu. Aja mertamu wayahe wong ngaso lan turu, kira-kira jam loro nganti jam papat sore. Aja mertamu wancine wong mangan. Rembugan aja nglantur. Sing bisa momong pangrasane sing duwe omah. Yen sajake ora seneng dijak ngrembug sawenehing bab, becike aja diterusake.
+        \n\n2.	TRAPSILA
+        \n\tMenawa diajak mangan ing ruang makan anggone imbuh ngenteni dimanggakake lan njupuk sacukupe wae. Rampung dhahar sendhok lan garbu dikurepake ing piring lan dhaharan ing piring kudu gusis kajaba balung lan eri. Aja watuk sajrone dhahar lan aja glegeken sawise rampung. Menawa kudu watuk utawa glegeken diempet dhisik nganti ninggalake ruang makan.
+        \n\n3.	AJA PADU
+        \n\tYen ana wong maradhayoh sing perlune nagih utang, nagih janji, utawa marani barang sing disilih. Sok-sok sing duwe omah gawe anyel, upamane durung bisa nyaur utange, ora netepi janjine lan barang sing disilih rusak. Nanging senajan nesu dikaya ngapa becike diampah sabisane. Sebab kurang prayoga yen nesu lan muna-muni ing omahe liyan. Apa maneh yen keprungu tangga teparo nganti padha metu nonton. Sulayane janji bisa dirembug sing sareh amrih kekarone padha mareme. Senajan lagi nesu nanging yen mulih tetep pamitan sing apik.
+    </string>
+
+    <string name="materisekolah">
+        Apa wae sing perlu digatekake marang guru ing sekolahan?
+        \n\ta.	Yen ngomong kaliyan bapak/ibu guru kedah nganggo basa krama sing sopan. Jalaran bapak/ibu guru menika tiyah sepuh dados kedah diurmati.
+        \n\tb.	Fokus kaliyan materi ingkang disampekno guru ing kelas. Mboten pareng guneman kaliyan kancane piyambak.
+        \n\tc.	Nyuwun pangapura menawa telat mlebu kelas.
+        \n\td.	Nyuwun idin menawa badhe ten pekiwan/WC
+    </string>
+
+    <string name="materinyampeknopesen">
+        Teks bacaan dialog penyampaian pesan
+        \n\n\tDani ndilalah dadi utusane Pak Sugi kanggo ngaturake layang ulem ing tangga teparo. Pak Sugi kagungan kajatan arep ningkahake putrane sing kaping pindho. Sawise nganggo rasukan kang sopan Dani wiwit budhal ngaturake ulem. Omah sing wiwitan dituju yaiku daleme Pak Pardi.
+        \n\tDani 	: 	Kula nuwun.
+        \n\tPak Pardi	: 	Mangga-mangga, pinarak nglebet Mas Dani.
+        \n\tDani 	: 	Matur nuwun Pak Pardi.
+        \n\tPak Pardi	:	Piye? Ana perlu apa kok njanur gunung dolan ning omahku.
+        \n\tDani	:	Nuwun sewu, sowan kula wonten ngriki, sepisanan kula silaturrahmi, dene kaping kalihipun kula dipunutus panjenenganipun Bapak Sugi, saperlu ngaturaken layang ulem sedahan kagem panjenengan sekalian.
+        \n\tPak Pardi 	:	Ya, daktampa layange.
+        \n\tDani	:	Matur nuwun pak, gandheng taksih kathah jejibahan kula nyuwun pamit. Nuwun.
+        \n\tPak Pardi	:	Ya, padha-padha. Mangga dakdherekake.
+    </string>
+
+    <string name="materikebiasaan">
+        Dadi bocah kudu sopan marang wong tuo. Tata krama e kudu di jaga ing ngendi bae. Mulai saka guneman tekan nyuwun tulung. Menawa ngendika kaliyan wong tuwa ora entuk nganggo swara sing dhuwur lan nantang. Kedah sing alus lan jaga penggalihe wong tuwa. Nalika karo kanca dolan, tata krama uga perlu digatekake supaya ora ono masalah..
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="copyright">Copyright 2017 - ABRAKADABRA TEAM</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="highscore">HIGHSCORE</string>
 
 </resources>

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.wahyuridiansyah.abrakadabra.about_us">
+    tools:context="com.wahyuridiansyah.abrakadabra.activity.about_us">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -32,18 +32,19 @@
             android:id="@+id/foto2_about"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:layout_centerHorizontal="true"
             android:layout_gravity="center_horizontal"
-            android:layout_marginRight="10dp"
-            android:layout_toRightOf="@+id/foto1_about" />
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/foto3_about"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_gravity="end"
-            android:layout_toRightOf="@+id/foto2_about"
-            android:adjustViewBounds="false" />
+            android:adjustViewBounds="false"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
     </RelativeLayout>
 
     <de.hdodenhof.circleimageview.CircleImageView
@@ -76,6 +77,20 @@
         android:textSize="16sp"
         android:layout_marginTop="10dp"
         android:layout_gravity="center_horizontal"/>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="bottom">
 
+</RelativeLayout>
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:text="@string/copyright"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
 </LinearLayout>

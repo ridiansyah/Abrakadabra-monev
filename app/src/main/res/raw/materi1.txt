@@ -1,0 +1,52 @@
+{
+	"pertanyaan": "Syifa ketemu Bu Lulu ing sekolahan jam 7 isuk. Anggone Syifa matur",
+	"jawabanbenar": 0,
+	"jawaban": [
+		{
+			"jawaban": "Sugeng Enjing"
+		},
+		{
+			"jawaban": "Sugeng Sonten"
+		},
+		{
+			"jawaban": "Sugeng Sare"
+		},
+		{
+			"jawaban": "Sugeng Rawuh"
+		}
+	],
+	
+	"pertanyaan": "Dinten niki tanggal 1 Januari 2018. Wahyu matur",
+	"jawabanbenar": 3,
+	"jawaban": [
+		{
+			"jawaban": "Sugeng Dahar"
+		},
+		{
+			"jawaban": "Sugeng Sonten"
+		},
+		{
+			"jawaban": "Sugeng Enjing"
+		},
+		{
+			"jawaban": "Sugeng Warsa Enggal"
+		}
+	],
+	
+	"pertanyaan": "Dinten niki tanggal 1 Januari 2018. Wahyu matur",
+	"jawabanbenar": 3,
+	"jawaban": [
+		{
+			"jawaban": "Sugeng Dahar"
+		},
+		{
+			"jawaban": "Sugeng Sonten"
+		},
+		{
+			"jawaban": "Sugeng Enjing"
+		},
+		{
+			"jawaban": "Sugeng Warsa Enggal"
+		}
+	]
+}
