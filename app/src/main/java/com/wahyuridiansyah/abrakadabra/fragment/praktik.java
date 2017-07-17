@@ -86,7 +86,7 @@ public class praktik extends Fragment implements View.OnClickListener{
         };
 
         String nama[]={
-          "Salam","Perkenalan","Keluarga","Alam","Medhayoh","Sekolah","Nyampekno Pesan","Kebiasaan"
+                "Salam","Ngendiken","Keluarga","Alam","Medhayoh","Sekolah","Nyampeken Pesan","Dolanan"
         };
 
         gamesLevel a = new gamesLevel(nama[0],gambar[0]);
