@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_menu_pengenalan"
+        title="Pengenalan"
+    />
+    <tab
+        id="@+id/tab_materi"
+        icon="@drawable/ic_menu_belajar"
+        title="Belajar"
+        />
+    <tab
+        id="@+id/tab_latihan"
+        icon="@drawable/ic_menu_praktik"
+        title="Pengenalan"
+        />
+</tabs>

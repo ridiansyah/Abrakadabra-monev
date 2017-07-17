@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/prak_alam"
+    tools:context="com.wahyuridiansyah.abrakadabra.quizActivity.praktikPerkenalan">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/frame_pertanyaan_alam"
+        android:background="@color/tulisanJudul"
+        >
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/back_kuis"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/question_alam"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="133dp"
+        android:gravity="center_vertical"
+        android:background="@android:color/white"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="5dp"
+        android:elevation="2dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/a0_alam"
+        android:background="@color/backgroundQuestion"
+        android:text=" Kula saking Magelang "
+        android:layout_marginLeft="15dp"
+        android:onClick="Clicked_alam"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="2dp"
+        android:layout_below="@+id/question_alam"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/a1_alam"
+        android:layout_marginBottom="2dp"
+        android:background="@color/backgroundQuestion"
+        android:onClick="Clicked_alam"
+        android:layout_below="@+id/a0_alam"
+        android:layout_alignRight="@+id/a0_alam"
+        android:layout_alignEnd="@+id/a0_alam"
+        android:layout_alignLeft="@+id/a0_alam"
+        android:layout_alignStart="@+id/a0_alam" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/a2_alam"
+        android:layout_marginBottom="2dp"
+        android:onClick="Clicked_alam"
+        android:background="@color/backgroundQuestion"
+        android:layout_below="@+id/a1_alam"
+        android:layout_alignRight="@+id/a0_alam"
+        android:layout_alignEnd="@+id/a0_alam"
+        android:layout_alignLeft="@+id/a0_alam"
+        android:layout_alignStart="@+id/a0_alam" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/a3_alam"
+        android:onClick="Clicked_alam"
+        android:background="@color/backgroundQuestion"
+        android:layout_below="@+id/a2_alam"
+        android:layout_alignRight="@+id/a0_alam"
+        android:layout_alignEnd="@+id/a0_alam"
+        android:layout_alignLeft="@+id/a0_alam"
+        android:layout_alignStart="@+id/a0_alam" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/point_alam"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

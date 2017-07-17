@@ -1,0 +1,184 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_kenal3"
+    tools:context="com.wahyuridiansyah.abrakadabra.fragment.Fragmentkenal2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="35dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="10dp"
+                android:text="Perkenalan Dengan Calon Mertua "
+                android:textAlignment="center"
+                android:textSize="38px"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Andri" />
+
+        <TextView
+            android:id="@+id/balas1"
+            android:layout_width="100dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            android:text=" Sugeng siang"
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:background="@color/chat_kenalan1" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Camer"
+                android:layout_alignParentRight="true"
+                android:id="@+id/nama2"/>
+
+            <TextView
+                android:id="@+id/balas2"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_below="@id/nama2"
+                android:text=" Sugeng siang "
+                android:textColor="@android:color/white"
+                android:gravity="center"
+                android:layout_marginRight="10dp"
+                android:background="@color/chat_kenalan1" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Andri" />
+
+        <TextView
+            android:id="@+id/balas3"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text=" Nyuwun sewu dalem Andri "
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:background="@color/chat_kenalan1" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Camer"
+                android:layout_alignParentRight="true"
+                android:id="@+id/nama3"/>
+
+            <TextView
+                android:id="@+id/balas4"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_below="@id/nama3"
+                android:text=" ooo.. iki to bocahe? "
+                android:textColor="@android:color/white"
+                android:gravity="center"
+                android:layout_marginRight="10dp"
+                android:background="@color/chat_kenalan1" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Andri" />
+
+        <TextView
+            android:id="@+id/balas5"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text=" Inggih pak. Nyuwun ngapunten nembe sak menika saged sowan "
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:background="@color/chat_kenalan1" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Camer"
+                android:layout_alignParentRight="true"
+                android:id="@+id/nama4"/>
+
+            <TextView
+                android:id="@+id/balas6"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:layout_below="@id/nama4"
+                android:text=" Yo ora popo. Dikepnakke yo "
+                android:textColor="@android:color/white"
+                android:gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:background="@color/chat_kenalan1" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Andri" />
+
+        <TextView
+            android:id="@+id/balas7"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text=" Matur nuwun saestu pak "
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/chat_kenalan1" />
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <android.support.design.widget.FloatingActionButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_done_white"
+                android:id="@+id/fab_next_kenal2"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

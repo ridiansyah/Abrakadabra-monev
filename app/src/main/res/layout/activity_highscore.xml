@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/hs_back"
+    android:gravity="center"
+    tools:context="com.wahyuridiansyah.abrakadabra.activity.highscore">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/hs_logo"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="POIN TERTINGGI"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="10dp"
+        android:textSize="30sp"
+        android:layout_gravity="center"/>
+    <FrameLayout
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:background="@color/hsColor"
+        android:layout_marginBottom="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/hs_nilai"
+            android:textSize="20dp"
+            android:layout_gravity="center"
+            android:text="NIlai pt"/>
+    </FrameLayout>
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:id="@+id/tmbl_back"
+        android:layout_gravity="center"
+        android:textColor="@android:color/white"
+        android:text="@string/kembali"
+        android:background="@drawable/button_back"
+        android:shadowColor="#a8a8a8"
+        android:shadowDx="0"
+        android:shadowDy="0"/>
+</LinearLayout>

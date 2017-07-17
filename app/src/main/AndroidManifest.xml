@@ -31,11 +31,9 @@
         <activity android:name=".quizActivity.kuisKebiasaan" />
         <activity android:name=".materi.belajar_alam" />
         <activity android:name=".materi.belajar_kebiasaan" />
-        <activity android:name=".materi.belajar_keluarga" />
         <activity android:name=".materi.belajar_medhayoh" />
         <activity android:name=".materi.belajar_nyampeknopesan" />
         <activity android:name=".materi.belajar_perkenalan" />
-        <activity android:name=".materi.belajar_sekolah" />
         <activity android:name=".materi.belajar_salam" />
         <activity
             android:name=".splash"
@@ -49,7 +47,10 @@
         <activity android:name=".quizActivity.kuisSekolah" />
         <activity android:name=".quizActivity.kuisMedhayoh" />
         <activity android:name=".quizActivity.kuisPesan" />
-        <activity android:name=".model.belajarSalam"></activity>
+        <activity android:name=".model.belajarSalam"/>
+        <activity android:name=".model.belajarsekolah"/>
+        <activity android:name=".model.belajarKeluarga"></activity>
     </application>
+
 
 </manifest>
