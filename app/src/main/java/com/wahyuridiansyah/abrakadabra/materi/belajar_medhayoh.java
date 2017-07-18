@@ -37,6 +37,8 @@ public class belajar_medhayoh extends AppIntro {
         setSeparatorColor(Color.parseColor("#2196f3"));
     }
 
+    //ini hasil dari keyboard baru cuy
+
     @Override
     public void onDonePressed() {
         startActivity(new Intent(this, MainActivity.class));
