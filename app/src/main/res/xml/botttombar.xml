@@ -13,6 +13,6 @@
     <tab
         id="@+id/tab_latihan"
         icon="@drawable/ic_menu_praktik"
-        title="Pengenalan"
+        title="Latihan"
         />
 </tabs>

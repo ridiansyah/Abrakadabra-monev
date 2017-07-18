@@ -54,14 +54,7 @@ public class MainActivity extends AppCompatActivity {
         App.setMainContext(this);
         Log.e("errorcontext_Main",String.valueOf(App.getMainContext()));
 
-//        drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-//        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-//                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-//        drawer.setDrawerListener(toggle);
-//        toggle.syncState();
 
-//        navigationView = (NavigationView) findViewById(R.id.nav_view);
-//        navigationView.setNavigationItemSelectedListener(this);
             bottomBar=(BottomBar)findViewById(R.id.bottombar);
         bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
             @Override
@@ -70,10 +63,10 @@ public class MainActivity extends AppCompatActivity {
                     fragment=new pengenalan();
                     callFragment(fragment);
                 } else if (tabId == R.id.tab_latihan) {
-                    fragment=new belajar();
+                    fragment=new praktik();
                     callFragment(fragment);
                 }else if (tabId==R.id.tab_materi){
-                    fragment= new praktik();
+                    fragment= new belajar();
                     callFragment(fragment);
                 }
             }
@@ -88,44 +81,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-//    @Override
-//    public void onBackPressed() {
-//        drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-//        if (drawer.isDrawerOpen(GravityCompat.START)) {
-//            drawer.closeDrawer(GravityCompat.START);
-//        } else {
-//            super.onBackPressed();
-//        }
-//    }
-
-
-
-//    @SuppressWarnings("StatementWithEmptyBody")
-//    @Override
-//    public boolean onNavigationItemSelected(MenuItem item) {
-//        // Handle navigation view item clicks here.
-//        int id = item.getItemId();
-//
-//
-//        // Untuk memanggil layout dari menu yang dipilih
-//        if (id == R.id.nav_pengenalan) {
-//            fragment = new pengenalan();
-//            callFragment(fragment);
-//        } else if (id == R.id.nav_belajar) {
-//            fragment = new belajar();
-//            callFragment(fragment);
-//        } else if (id == R.id.nav_praktik) {
-//            fragment = new praktik();
-//            callFragment(fragment);
-//        } else if (id == R.id.nav_tentangkami) {
-//            fragment = new about_us();
-//            callFragment(fragment);
-//        }
-//
-//        drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-//        drawer.closeDrawer(GravityCompat.START);
-//        return true;
-//    }
 
     // untuk mengganti isi kontainer menu yang dipiih
     private void callFragment(Fragment fragment) {
